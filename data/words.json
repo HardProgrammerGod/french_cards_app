@@ -1,13 +1,5 @@
 [
-    {"french": "bonjour", "transcription": "[bɔ̃ʒuʁ]", "translation": "добрий день"},
-    {"french": "merci", "transcription": "[mɛʁsi]", "translation": "дякую"},
-    {"french": "pomme", "transcription": "[pɔm]", "translation": "яблуко"},
-    {"french": "chat", "transcription": "[ʃa]", "translation": "кіт"},
-    {"french": "chien", "transcription": "[ʃjɛ̃]", "translation": "собака"},
-    {"french": "soleil", "transcription": "[sɔlɛj]", "translation": "сонце"},
-    {"french": "lune", "transcription": "[lyn]", "translation": "місяць"},
-    {"french": "eau", "transcription": "[o]", "translation": "вода"},
-    {"french": "pain", "transcription": "[pɛ̃]", "translation": "хліб"},
-    {"french": "fromage", "transcription": "[fʁɔmaʒ]", "translation": "сир"}
+    {"french": "chat", "ukrainian": "кіт"},
+    {"french": "chien", "ukrainian": "собака"},
+    {"french": "maison", "ukrainian": "будинок"}
 ]
-
